@@ -7,4 +7,4 @@ How to obtain an ADC_Complete Interrupt.
 
 DAC output of ADC value on board pin A0.
 
-Use of fast pin operations.
+Use of fast pin operations on pin D7.
